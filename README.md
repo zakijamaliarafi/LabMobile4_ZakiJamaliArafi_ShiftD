@@ -1,16 +1,25 @@
-# tokokita
+# Tugas Pertemuan 4
+Nama       : Zaki Jamali Arafi
 
-A new Flutter project.
+NIM        : H1D022048
 
-## Getting Started
+Shift Baru : Shift D
 
-This project is a starting point for a Flutter application.
+# Screenshots : 
+## 1. `login_page.dart`
+![Lampiran Login](login.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 2. `register_page.dart`
+![Lampiran Register](register.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 3. `produk_page.dart`
+![Lampiran Produk Page](produkpage.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 4. `produk_detail.dart`
+![Lampiran Produk Detail](detailproduk.png)
+
+## 5. `produk_form.dart` bagian tambah
+![Lampiran Produk Form Tambah](formproduktambah.png)
+
+## 5. `produk_form.dart` bagian ubah
+![Lampiran Produk Form Ubah](formprodukubah.png)
