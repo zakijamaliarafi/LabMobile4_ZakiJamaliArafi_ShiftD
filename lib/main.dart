@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: 'Toko Kita',
       debugShowCheckedModeBanner: false,
-      home: ProdukPage(),
+      home: LoginPage(),
     );
   }
 }
