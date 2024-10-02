@@ -21,5 +21,5 @@ Shift Baru : Shift D
 ## 5. `produk_form.dart` bagian tambah
 ![Lampiran Produk Form Tambah](formproduktambah.png)
 
-## 5. `produk_form.dart` bagian ubah
+## 6. `produk_form.dart` bagian ubah
 ![Lampiran Produk Form Ubah](formprodukubah.png)
